@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HvA Quest</string>
+    <string name="welcome">Welcome to the Hva Locations Quest</string>
+    <string name="instructions">After pressing start you will start the quest.
+        After each question a picture of a HvA building is shown. Go to the building and start the next question.
+        At the end there will be a prize waiting for you! </string>
+    <string name="start_quest">Start quest</string>
+
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_next_question">Next question</string>
+    <string name="btn_finish">Finish</string>
+
+    <string name="clue_instruction">Go to the location as shown in the image below.</string>
+    <string name="finished">Congratulations, you finished the quest! Here is your prize</string>
+
+</resources>
